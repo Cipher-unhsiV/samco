@@ -1,0 +1,121 @@
+
+
+* The paper introduces a 2D image-centric audio embedded snippet-based framework for COPD severity classification.
+* The framework utilizes time-frequency representations of lung sounds and a ResNet50-based transfer learning model.
+* The study achieves an accuracy of 94.57% in COPD severity classification.
+* The paper reviews various studies on COPD severity classification using different techniques such as discrete wavelet transform, correlation filter, ensemble machine learning, higher-order feature extraction, genetic algorithm, and deep belief network.
+* The proposed work uses a digital stethoscope to capture pivotal audio data formatted in the '.wav' file, spanning a substantial 17-second interval.
+* The dataset - RespositoryDatabase@TR [2] contains 12 distinct channels of lung sounds meticulously focused on the upper, middle, and lower lung regions, as well as the costophrenic angle areas on both the posterior and anterior sides of the chest.
+* The dataset comprises data from 30 healthy subjects and 45 subjects diagnosed with pulmonary diseases, including asthma, chronic obstructive pulmon
+
+
+
+
+
+
+* The document is a press release from Sarda Energy & Minerals Ltd. regarding their Q2 & H1 FY25 results.
+* The company's production and sales for various products are provided in tables, including Iron Ore Pellet, Sponge Iron, Steel Billet, Wire Rod, H.B Wire, Ferro Alloys, Power (Thermal), Power (Hydro), and Coal.
+* The tables include UOM, Quarter Half Year Ended, Q2FY25 Q1FY24 Q2FY24 Change %, H1FY25 H1FY24 YoY %, A B C QoQ YoY.
+* The document also includes information about the newly acquired 2 x 300 MW SKS power plant and its impact on thermal power generation and sales.
+* The document mentions that hydro power generation is seasonal and not comparable QoQ, and coal production is not comparable QoQ due to seasonal impact.
+* The document is enclosed as an attachment.
+
+
+
+
+
+
+Summary of Sarda Energy & Minerals Ltd. Q2 & H1 FY25 Results
+
+Sarda Energy & Minerals Ltd. (SEML) has released its Q2 & H1 FY25 results. The company's production and sales for the period are as follows:
+
+Production:
+
+* Iron Ore Pellet: 214,000 MT
+* Sponge Iron: 82,000 MT
+* Steel Billet: 58,000 MT
+* Wire Rod: 49,000 MT
+* H.B Wire: 9,000 MT
+* Ferro Alloys: 48,000 MT
+* Power (Thermal): 552 Mn KwH
+* Power (Hydro): 277 Mn KwH
+* Coal: 430,000 MT
+
+Sales:
+
+* Iron Ore Pellet: 132,000 MT
+* Sponge Iron: 25,000 MT
+* Steel Billet: 7,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summary:
+
+Sarda Energy & Minerals Ltd. (SEML) is an ISO 9001, ISO 14001, and ISO 45001 certified company that operates in the energy and minerals sector. The company's production and sales for the Q2 and H1 FY25 are presented in the attached press release.
+
+Production:
+
+The company's production for Q2FY25 and H1FY25 is compared with the corresponding periods of the previous year. The production of Iron Ore Pellet, Sponge Iron, Steel Billet, Wire Rod, H.B Wire, and Ferro Alloys has increased, while the production of Coal has decreased. The production of Power (Thermal) and Power (Hydro) has also increased, with the latter being seasonal and not comparable QoQ.
+
+Sales:
+
+The company's sales for Q2FY25 and H1FY25 are compared with the corresponding periods of the previous year. The sales of Iron Ore Pellet, Sponge Iron, Steel Billet, Wire Rod, H.B Wire, and Ferro Alloys have increased, while the sales of Coal have decreased. The sales of Power (Thermal) and Power (Hydro) have also increased, with the latter being seasonal and not comparable QoQ.
+
+Overall, the company's production and sales have shown positive growth compared to the previous year. However, the production of Coal has decreased, and the sales of Coal have been reduced due to higher internal consumption. Additionally, the company has experienced a part of all production being captively consumed for production of downstream products, and quantities of traded goods not included in the analysis.
+
+In conclusion, SEML's production and sales for Q2 and H1 FY25 have shown positive growth, with the company's focus on energy and minerals production and sales. The company's production and sales of Iron Ore Pellet, Sponge Iron, Steel Billet, Wire Rod, H.B Wire, and Ferro Alloys have increased, while the production of Coal has decreased. The company's production and sales of Power (Thermal) and Power (Hydro) have also increased, with the latter being seasonal and not comparable QoQ. The company's focus on captively consuming a part of all production for production of downstream products and reduced sales of Coal due to higher internal consumption should be noted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summary of APAR Industries Limited's Proposed Capacity Addition of Continuous Transposed Conductor
+
+APAR Industries Limited is proposing a capacity addition of Continuous Transposed Conductor (CTC) in its Conductor Division. The proposed capacity addition is expected to be completed by Q3 FY26 and will require an investment of Rs. crores 72.55. The purpose of the document is to inform the Exchanges about the proposed capacity addition under Regulation 30(4)(d) read with Point no. 3 of Para B of Part A of Schedule III of SEBI LODR, as amended from time to time.
+
+The existing capacity of the company is 7,350 MT per annum, with a capacity utilization of 98%. The proposed capacity addition is expected to be 7,980 MT per annum, resulting in a total capacity of 20,490 MT per annum. The proposed capacity addition is aimed at catering to the increased demand available on account of the Government's focused prioritization of Power and Generation requirements.
+
+The document highlights the National Electricity Plan released in Oct '24, which plans to add 1,91,474 ckm of transmission lines and 12,74,185 MVA of transformation capacity for 220 kV and above voltage levels during the period 2022-32. The proposed CTC expansion will help APAR Industries' capacity become 3x of the current level, which will help cater to the increased demand.
+
+The document also provides a detailed breakdown of the proposed capacity addition under Regulation 30 of the Listing Regulations read with SEBI Circular No. SEBI/HO/CFD/CFD-PoD-1/P/CIR/2023/123 dated July 13, 2023. The table below summarizes the key data points:
+
+| Existing Capacity (MT per annum) | Existing Capacity Utilization | Expected Capacity Addition (MT per annum) | Proposed Capacity Addition (MT per annum) | Total Capacity (MT per annum) | Period within which the proposed capacity is to be added | Investment Required (Rs. crores) | Mode of Financing | Rationale |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7,350 | 98% | 5,160 | 7,980 | 20,490 | Q3 FY26 | 72.55 | Internal accrual / debt | As per National Electricity Plan released in Oct '24, 1,91,474 ckm of transmission lines and 12,74,185 MVA of transformation capacity for 220 kV and above voltage levels are planned to be added during the period 2022-32. The proposed CTC expansion will help APAR Industries' capacity become 3x of the current level, which will help cater to the increased demand. |
+
+In conclusion, APAR Industries Limited is proposing a capacity addition of Continuous Transposed Conductor in its Conductor Division. The proposed capacity addition is expected to be completed by Q3 FY26
