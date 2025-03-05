@@ -1,0 +1,132 @@
+// FIRST APP
+
+import 'dart:ui';
+
+import 'package:flutter/material.dart';
+
+void main() => runApp(const MyApp());
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+  @override
+  Widget build(BuildContext context) {
+    return const MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+          body: Center(
+              child: Text(
+        "This is my very first FLUTTER APP!!!",
+        style: TextStyle(
+            fontSize: 60,
+            backgroundColor: Colors.lightBlueAccent,
+            fontWeight: FontWeight.w900,
+            fontStyle: FontStyle.italic),
+        textAlign: TextAlign.center,
+      ))),
+    );
+  }
+}
+
+
+// WHATSAPP CLONE
+
+import 'dart:html';
+
+import 'package:flutter/material.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+          appBar: AppBar(
+            title: Text("Whatsapp",
+                style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 22,
+                    fontWeight: FontWeight.bold)),
+            backgroundColor: Color(0xff075e54),
+          ),
+          body: SingleChildScrollView(
+            child: Column(
+              children: [
+                buildListTile(
+                    "Vishnu",
+                    "Hey.. How r u?",
+                    "https://pbs.twimg.com/profile_images/1801973062465912832/EZqU5o9I_400x400.jpg",
+                    "19:19"),
+                buildListTile(
+                    "Senajith",
+                    "Kanguva.. Sunday?",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-H3UTJPBOUPzb4Hu0VVQjOLduJiX5-EWZg&s",
+                    "17:05"),
+                buildListTile(
+                    "Vishnu",
+                    "Hey.. How r u?",
+                    "https://pbs.twimg.com/profile_images/1801973062465912832/EZqU5o9I_400x400.jpg",
+                    "19:19"),
+                buildListTile(
+                    "Senajith",
+                    "Kanguva.. Sunday?",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-H3UTJPBOUPzb4Hu0VVQjOLduJiX5-EWZg&s",
+                    "17:05"),
+                buildListTile(
+                    "Vishnu",
+                    "Hey.. How r u?",
+                    "https://pbs.twimg.com/profile_images/1801973062465912832/EZqU5o9I_400x400.jpg",
+                    "19:19"),
+                buildListTile(
+                    "Senajith",
+                    "Kanguva.. Sunday?",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-H3UTJPBOUPzb4Hu0VVQjOLduJiX5-EWZg&s",
+                    "17:05"),
+                buildListTile(
+                    "Vishnu",
+                    "Hey.. How r u?",
+                    "https://pbs.twimg.com/profile_images/1801973062465912832/EZqU5o9I_400x400.jpg",
+                    "19:19"),
+                buildListTile(
+                    "Senajith",
+                    "Kanguva.. Sunday?",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-H3UTJPBOUPzb4Hu0VVQjOLduJiX5-EWZg&s",
+                    "17:05"),
+                buildListTile(
+                    "Vishnu",
+                    "Hey.. How r u?",
+                    "https://pbs.twimg.com/profile_images/1801973062465912832/EZqU5o9I_400x400.jpg",
+                    "19:19"),
+                buildListTile(
+                    "Senajith",
+                    "Kanguva.. Sunday?",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-H3UTJPBOUPzb4Hu0VVQjOLduJiX5-EWZg&s",
+                    "17:05"),
+              ],
+            ),
+          )),
+    );
+  }
+
+  ListTile buildListTile(name, text, dp, time) {
+    return ListTile(
+      leading: CircleAvatar(
+        backgroundImage: NetworkImage(dp),
+        radius: 25,
+      ),
+      title: Text(name, style: TextStyle(fontSize: 20)),
+      subtitle: Text(text),
+      trailing: Column(
+        children: [
+          Text(time),
+          Icon(
+            Icons.done_all,
+            color: Colors.blueAccent,
+          ),
+        ],
+      ),
+    );
+  }
+}
